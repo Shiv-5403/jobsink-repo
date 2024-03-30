@@ -1,0 +1,152 @@
+*{ 
+    margin: 0%; 
+    padding: 0%; 
+} 
+ 
+body{ 
+    background-image: url("https://staffingsolutionsinc.com/wp-content/uploads/2020/02/How-to-Ace-a-Panel-Interview-plain.png"); 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+} 
+ 
+.navbar{ 
+    height: 80px; 
+    background-color: rgb(2, 126, 193); 
+    display: flex; 
+    align-items: center; 
+} 
+ 
+.border{ 
+    border: 1.2 rem transparent; 
+} 
+ 
+.border :hover{ 
+    border: 1.2rem; 
+    border-color: aliceblue; 
+} 
+ 
+.heading{ 
+    font-size: 50px; 
+    justify-content: center; 
+    color: aliceblue; 
+    padding-left: 25px; 
+    cursor: pointer; 
+ 
+} 
+ 
+.search-select{ 
+    height: 40px; 
+    width: 40px; 
+    border: none; 
+    margin-left: 250px; 
+    background-color: #f3f3f3; 
+    cursor: pointer; 
+} 
+.search-input{ 
+    height: 40px; 
+    width: 400px ; 
+    border: none; 
+    font-size: 1rem; 
+} 
+ 
+.search-icon{ 
+     background-color:#f3f3f3; 
+     height: 40px; 
+     width: 40px; 
+     display: flex; 
+     justify-content: center; 
+     align-items: center; 
+     font-size: 1.3rem; 
+     cursor: pointer; 
+ 
+} 
+ 
+.jobrecuiter button { 
+    font-size: 1rem; 
+    display: inline-block; 
+    padding: 15px 25px; 
+    background-color: solid white; 
+    color: black; 
+    text-decoration: none; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    margin-left: 300px; 
+} 
+ 
+ 
+body { 
+    font-family: Arial, sans-serif; 
+    margin: 0; 
+    padding: 0; 
+    background-color: #fcfcfc; 
+} 
+ 
+.container { 
+    width: 100%; 
+    max-width: 400px; 
+    margin: 100px auto; 
+    padding: 20px; 
+    background-color: #f4f5f5; 
+    border-radius: 5px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    text-align: center;  
+    margin-top:350px; 
+} 
+ 
+.logo { 
+    display: block; 
+    width: 200px; 
+    height: auto; 
+    margin: 0 auto 30px; 
+} 
+ 
+h2 { 
+    text-align: center; 
+    margin-bottom: 30px; 
+} 
+ 
+input[type="text"], 
+input[type="password"] { 
+    width: 100%; 
+    padding: 10px; 
+    margin-bottom: 20px; 
+    border: 1px solid #0f0f0f; 
+    border-radius: 3px; 
+    box-sizing: border-box; 
+} 
+ 
+input[type="submit"] { 
+    width: 100%; 
+    padding: 10px; 
+    background-color: #0dc5f8; 
+    border: none; 
+    border-radius: 3px; 
+    color: #fff; 
+    font-size: 16px; 
+    cursor: pointer; 
+} 
+ 
+input[type="submit"]:hover { 
+    background-color:white; 
+} 
+ 
+.forgot-password { 
+    text-align: right; 
+    margin-bottom: 10px; 
+} 
+ 
+.forgot-password a { 
+    color: #0e0e0e; 
+    text-decoration: none; 
+} 
+ 
+.forgot-password a:hover { 
+    text-decoration: underline; 
+}   
+ 
+.down-line{ 
+    margin-top: 400px; 
+    background-color: #0dc5f8; 
+ 
+}
